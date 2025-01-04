@@ -1,0 +1,7 @@
+C:\Users\FURKAN\Desktop\C# OKUL\parallelogram\bin\Debug\parallelogram.exe.config
+C:\Users\FURKAN\Desktop\C# OKUL\parallelogram\bin\Debug\parallelogram.exe
+C:\Users\FURKAN\Desktop\C# OKUL\parallelogram\bin\Debug\parallelogram.pdb
+C:\Users\FURKAN\Desktop\C# OKUL\parallelogram\obj\Debug\parallelogram.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\C# OKUL\parallelogram\obj\Debug\parallelogram.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\C# OKUL\parallelogram\obj\Debug\parallelogram.exe
+C:\Users\FURKAN\Desktop\C# OKUL\parallelogram\obj\Debug\parallelogram.pdb
